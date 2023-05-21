@@ -6,7 +6,7 @@
     "codematc84": {
       "projectType": "application",
       "schematics": {},
-      "root": "",
+      "root": "/codematc84/src/app",
       "sourceRoot": "src",
       "prefix": "app",
       "architect": {
