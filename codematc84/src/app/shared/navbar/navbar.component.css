@@ -1,0 +1,22 @@
+.container__navbar {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: row;
+  color: white;
+}
+
+.container__navbar > ul {
+  display: flex;
+  flex-direction: row;
+}
+
+.container__navbar > ul > li {
+  margin-right: 20px;
+  list-style: none;
+}
+
+.container__navbar > ul > li:hover {
+  font-size: 20px;
+  font-weight: bold;
+  color: aqua;
+}
