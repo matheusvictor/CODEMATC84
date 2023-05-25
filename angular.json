@@ -6,14 +6,14 @@
     "codematc84": {
       "projectType": "application",
       "schematics": {},
-      "root": "/codematc84/src/app",
+      "root": "",
       "sourceRoot": "src",
       "prefix": "app",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/codematc84",
+            "outputPath": "docs",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
